@@ -9,12 +9,12 @@
   -moz-box-sizing: border-box;
 }
 
-col-1 {
+.col-1 {
   float: left;
   width: 64%;
 }
 
-col-2 {
+.col-2 {
   float: left;
   width: 32%;
 }
