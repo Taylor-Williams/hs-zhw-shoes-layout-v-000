@@ -10,11 +10,13 @@
 }
 
 col-1 {
-  
+  float: left;
+  width: 64%;
 }
 
 col-2 {
-  
+  float: left;
+  width: 32%;
 }
 
 .clearfix:after {
@@ -31,5 +33,3 @@ col-2 {
 }
 
 /* Posititoning Classes */
-
-
