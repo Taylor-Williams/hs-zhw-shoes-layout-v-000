@@ -26,7 +26,7 @@
 }
 
 .border-right{
-  border-right: 1px solid black;
+  border-right: solid 1px black;
 }
 
 .clearfix:after {
